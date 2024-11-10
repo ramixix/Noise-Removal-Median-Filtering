@@ -1,0 +1,1 @@
+$ g++ `pkg-config --cflags --libs gtk+-3.0 opencv4` -o median_filter_c median_filtering.cpp -lsndfile
