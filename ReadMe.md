@@ -17,7 +17,7 @@ This code is designed to demonstrate the concept of median filtering and its app
 
 <div style="display: flex; justify-content: space-around;">
 <figure>
-  <img src="./example_images/sp_img_gray_noise_heavy.png" width="300" />
+  <img src="./example_images/sp_img_gray_noise_heavy.png" width="200" />
   <figcaption>Original Image With Noise.</figcaption>
 </figure>
 
